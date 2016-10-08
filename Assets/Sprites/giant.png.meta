@@ -1,0 +1,777 @@
+fileFormatVersion: 2
+guid: 7d71babeeb070f3498b717de37e26918
+timeCreated: 1470350502
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: giant_0
+    21300002: giant_1
+    21300004: giant_2
+    21300006: giant_3
+    21300008: giant_4
+    21300010: giant_5
+    21300012: giant_6
+    21300014: giant_7
+    21300016: giant_8
+    21300018: giant_9
+    21300020: giant_10
+    21300022: giant_11
+    21300024: giant_12
+    21300026: giant_13
+    21300028: giant_14
+    21300030: giant_15
+    21300032: giant_16
+    21300034: giant_17
+    21300036: giant_18
+    21300038: giant_19
+    21300040: giant_20
+    21300042: giant_21
+    21300044: giant_22
+    21300046: giant_23
+    21300048: giant_24
+    21300050: giant_25
+    21300052: giant_26
+    21300054: giant_27
+    21300056: giant_28
+    21300058: giant_29
+    21300060: giant_30
+    21300062: giant_31
+    21300064: giant_32
+    21300066: giant_33
+    21300068: giant_34
+    21300070: giant_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: giant_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_25
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_34
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    - name: giant_35
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -47}
+        - {x: -35, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 30}
+        - {x: 46, y: 64}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

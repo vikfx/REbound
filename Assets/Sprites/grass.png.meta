@@ -1,0 +1,3394 @@
+fileFormatVersion: 2
+guid: cd06a6a1d62689942b498b42e743d92b
+timeCreated: 1471457471
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: grass_0
+    21300002: grass_1
+    21300004: grass_2
+    21300006: grass_3
+    21300008: grass_4
+    21300010: grass_5
+    21300012: grass_6
+    21300014: grass_7
+    21300016: grass_8
+    21300018: grass_9
+    21300020: grass_10
+    21300022: grass_11
+    21300024: grass_12
+    21300026: grass_13
+    21300028: grass_14
+    21300030: grass_15
+    21300032: grass_16
+    21300034: grass_17
+    21300036: grass_18
+    21300038: grass_19
+    21300040: grass_20
+    21300042: grass_21
+    21300044: grass_22
+    21300046: grass_23
+    21300048: grass_24
+    21300050: grass_25
+    21300052: grass_26
+    21300054: grass_27
+    21300056: grass_28
+    21300058: grass_29
+    21300060: grass_30
+    21300062: grass_31
+    21300064: grass_32
+    21300066: grass_33
+    21300068: grass_34
+    21300070: grass_35
+    21300072: grass_36
+    21300074: grass_37
+    21300076: grass_38
+    21300078: grass_39
+    21300080: grass_40
+    21300082: grass_41
+    21300084: grass_42
+    21300086: grass_43
+    21300088: grass_44
+    21300090: grass_45
+    21300092: grass_46
+    21300094: grass_47
+    21300096: grass_48
+    21300098: grass_49
+    21300100: grass_50
+    21300102: grass_51
+    21300104: grass_52
+    21300106: grass_53
+    21300108: grass_54
+    21300110: grass_55
+    21300112: grass_56
+    21300114: grass_57
+    21300116: grass_58
+    21300118: grass_59
+    21300120: grass_60
+    21300122: grass_61
+    21300124: grass_62
+    21300126: grass_63
+    21300128: grass_64
+    21300130: grass_65
+    21300132: grass_66
+    21300134: grass_67
+    21300136: grass_68
+    21300138: grass_69
+    21300140: grass_70
+    21300142: grass_71
+    21300144: grass_72
+    21300146: grass_73
+    21300148: grass_74
+    21300150: grass_75
+    21300152: grass_76
+    21300154: grass_77
+    21300156: grass_78
+    21300158: grass_79
+    21300160: grass_80
+    21300162: grass_81
+    21300164: grass_82
+    21300166: grass_83
+    21300168: grass_84
+    21300170: grass_85
+    21300172: grass_86
+    21300174: grass_87
+    21300176: grass_88
+    21300178: grass_89
+    21300180: grass_90
+    21300182: grass_91
+    21300184: grass_92
+    21300186: grass_93
+    21300188: grass_94
+    21300190: grass_95
+    21300192: grass_96
+    21300194: grass_97
+    21300196: grass_98
+    21300198: grass_99
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: grass_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103, y: 86}
+        - {x: 98, y: 81}
+        - {x: 94, y: 76}
+        - {x: 86, y: 59}
+        - {x: 85, y: 55}
+        - {x: 86, y: 58}
+        - {x: 87, y: 63}
+        - {x: 101, y: 88}
+        - {x: 103, y: 92}
+        - {x: 103, y: 102}
+        - {x: 98, y: 115}
+        - {x: 74, y: 115}
+        - {x: 32, y: 67}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 107, y: 79}
+        - {x: 108, y: 83}
+        - {x: 105, y: 86}
+    - name: grass_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: 87}
+        - {x: 95, y: 77}
+        - {x: 92, y: 72}
+        - {x: 87, y: 61}
+        - {x: 87, y: 59}
+        - {x: 85, y: 56}
+        - {x: 84, y: 52}
+        - {x: 85, y: 55}
+        - {x: 86, y: 60}
+        - {x: 88, y: 63}
+        - {x: 88, y: 65}
+        - {x: 94, y: 76}
+        - {x: 98, y: 81}
+        - {x: 102, y: 90}
+        - {x: 102, y: 101}
+        - {x: 89, y: 115}
+        - {x: 60, y: 115}
+        - {x: 32, y: 45}
+        - {x: 32, y: 14}
+        - {x: 88, y: 14}
+        - {x: 108, y: 74}
+        - {x: 108, y: 85}
+        - {x: 107, y: 87}
+    - name: grass_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 81}
+        - {x: 93, y: 73}
+        - {x: 86, y: 58}
+        - {x: 84, y: 51}
+        - {x: 86, y: 57}
+        - {x: 87, y: 62}
+        - {x: 96, y: 77}
+        - {x: 101, y: 86}
+        - {x: 105, y: 95}
+        - {x: 99, y: 104}
+        - {x: 91, y: 115}
+        - {x: 82, y: 115}
+        - {x: 74, y: 110}
+        - {x: 42, y: 58}
+        - {x: 36, y: 44}
+        - {x: 34, y: 33}
+        - {x: 32, y: 29}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 109, y: 79}
+        - {x: 109, y: 85}
+        - {x: 103, y: 87}
+    - name: grass_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 79}
+        - {x: 94, y: 74}
+        - {x: 90, y: 67}
+        - {x: 87, y: 60}
+        - {x: 87, y: 58}
+        - {x: 87, y: 61}
+        - {x: 94, y: 74}
+        - {x: 100, y: 83}
+        - {x: 103, y: 88}
+        - {x: 103, y: 100}
+        - {x: 95, y: 114}
+        - {x: 79, y: 114}
+        - {x: 32, y: 75}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 110, y: 82}
+        - {x: 106, y: 86}
+        - {x: 105, y: 86}
+    - name: grass_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104, y: 86}
+        - {x: 96, y: 76}
+        - {x: 91, y: 68}
+        - {x: 87, y: 59}
+        - {x: 94, y: 73}
+        - {x: 96, y: 75}
+        - {x: 101, y: 82}
+        - {x: 107, y: 94}
+        - {x: 95, y: 114}
+        - {x: 79, y: 114}
+        - {x: 65, y: 105}
+        - {x: 32, y: 38}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 110, y: 77}
+        - {x: 110, y: 85}
+    - name: grass_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: 85}
+        - {x: 106, y: 85}
+        - {x: 100, y: 79}
+        - {x: 97, y: 75}
+        - {x: 93, y: 69}
+        - {x: 90, y: 65}
+        - {x: 93, y: 70}
+        - {x: 99, y: 79}
+        - {x: 106, y: 86}
+        - {x: 109, y: 94}
+        - {x: 106, y: 113}
+        - {x: 74, y: 113}
+        - {x: 43, y: 100}
+        - {x: 32, y: 35}
+        - {x: 32, y: 14}
+        - {x: 86, y: 14}
+        - {x: 88, y: 19}
+        - {x: 110, y: 78}
+        - {x: 111, y: 82}
+    - name: grass_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: 84}
+        - {x: 101, y: 79}
+        - {x: 95, y: 71}
+        - {x: 95, y: 70}
+        - {x: 93, y: 69}
+        - {x: 90, y: 64}
+        - {x: 92, y: 67}
+        - {x: 94, y: 69}
+        - {x: 95, y: 73}
+        - {x: 101, y: 80}
+        - {x: 105, y: 84}
+        - {x: 108, y: 90}
+        - {x: 108, y: 98}
+        - {x: 97, y: 113}
+        - {x: 85, y: 113}
+        - {x: 35, y: 59}
+        - {x: 32, y: 42}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 112, y: 74}
+        - {x: 112, y: 81}
+        - {x: 110, y: 85}
+    - name: grass_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: 84}
+        - {x: 99, y: 75}
+        - {x: 90, y: 63}
+        - {x: 92, y: 66}
+        - {x: 94, y: 68}
+        - {x: 99, y: 76}
+        - {x: 113, y: 90}
+        - {x: 113, y: 93}
+        - {x: 98, y: 112}
+        - {x: 89, y: 112}
+        - {x: 75, y: 97}
+        - {x: 44, y: 56}
+        - {x: 34, y: 39}
+        - {x: 32, y: 30}
+        - {x: 32, y: 14}
+        - {x: 88, y: 14}
+        - {x: 113, y: 74}
+        - {x: 113, y: 81}
+        - {x: 111, y: 85}
+    - name: grass_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101, y: 76}
+        - {x: 96, y: 70}
+        - {x: 96, y: 69}
+        - {x: 90, y: 62}
+        - {x: 93, y: 66}
+        - {x: 97, y: 72}
+        - {x: 108, y: 85}
+        - {x: 110, y: 98}
+        - {x: 102, y: 111}
+        - {x: 86, y: 111}
+        - {x: 56, y: 77}
+        - {x: 32, y: 35}
+        - {x: 32, y: 15}
+        - {x: 34, y: 14}
+        - {x: 88, y: 14}
+        - {x: 114, y: 76}
+        - {x: 114, y: 82}
+        - {x: 108, y: 84}
+    - name: grass_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110, y: 83}
+        - {x: 97, y: 70}
+        - {x: 94, y: 66}
+        - {x: 94, y: 65}
+        - {x: 90, y: 60}
+        - {x: 92, y: 62}
+        - {x: 95, y: 68}
+        - {x: 110, y: 83}
+        - {x: 110, y: 97}
+        - {x: 102, y: 110}
+        - {x: 90, y: 110}
+        - {x: 58, y: 84}
+        - {x: 32, y: 37}
+        - {x: 32, y: 14}
+        - {x: 90, y: 14}
+        - {x: 115, y: 76}
+        - {x: 115, y: 82}
+        - {x: 112, y: 83}
+    - name: grass_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 70}
+        - {x: 98, y: 69}
+        - {x: 94, y: 65}
+        - {x: 94, y: 64}
+        - {x: 93, y: 64}
+        - {x: 96, y: 68}
+        - {x: 96, y: 69}
+        - {x: 110, y: 83}
+        - {x: 112, y: 95}
+        - {x: 105, y: 109}
+        - {x: 87, y: 109}
+        - {x: 32, y: 52}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 116, y: 74}
+        - {x: 116, y: 82}
+        - {x: 110, y: 83}
+    - name: grass_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 115, y: 82}
+        - {x: 111, y: 81}
+        - {x: 108, y: 79}
+        - {x: 98, y: 69}
+        - {x: 111, y: 83}
+        - {x: 117, y: 90}
+        - {x: 103, y: 108}
+        - {x: 94, y: 108}
+        - {x: 71, y: 91}
+        - {x: 32, y: 38}
+        - {x: 32, y: 14}
+        - {x: 86, y: 14}
+        - {x: 88, y: 19}
+        - {x: 117, y: 72}
+        - {x: 117, y: 78}
+    - name: grass_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: 81}
+        - {x: 106, y: 76}
+        - {x: 98, y: 68}
+        - {x: 106, y: 77}
+        - {x: 107, y: 77}
+        - {x: 112, y: 82}
+        - {x: 114, y: 94}
+        - {x: 107, y: 107}
+        - {x: 91, y: 107}
+        - {x: 32, y: 54}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 118, y: 75}
+        - {x: 118, y: 79}
+        - {x: 115, y: 81}
+    - name: grass_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113, y: 80}
+        - {x: 110, y: 78}
+        - {x: 106, y: 74}
+        - {x: 105, y: 74}
+        - {x: 96, y: 65}
+        - {x: 96, y: 64}
+        - {x: 96, y: 66}
+        - {x: 104, y: 74}
+        - {x: 105, y: 74}
+        - {x: 111, y: 79}
+        - {x: 113, y: 80}
+        - {x: 119, y: 87}
+        - {x: 119, y: 89}
+        - {x: 110, y: 107}
+        - {x: 89, y: 107}
+        - {x: 32, y: 49}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 119, y: 71}
+        - {x: 119, y: 77}
+        - {x: 117, y: 81}
+    - name: grass_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 119, y: 87}
+        - {x: 107, y: 106}
+        - {x: 94, y: 106}
+        - {x: 86, y: 99}
+        - {x: 44, y: 51}
+        - {x: 33, y: 37}
+        - {x: 32, y: 27}
+        - {x: 32, y: 15}
+        - {x: 34, y: 14}
+        - {x: 86, y: 14}
+        - {x: 88, y: 19}
+        - {x: 119, y: 70}
+    - name: grass_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117, y: 91}
+        - {x: 104, y: 105}
+        - {x: 99, y: 105}
+        - {x: 59, y: 91}
+        - {x: 32, y: 37}
+        - {x: 32, y: 14}
+        - {x: 86, y: 14}
+        - {x: 88, y: 19}
+        - {x: 120, y: 72}
+        - {x: 120, y: 78}
+    - name: grass_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 104}
+        - {x: 73, y: 87}
+        - {x: 40, y: 46}
+        - {x: 33, y: 31}
+        - {x: 32, y: 27}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 121, y: 68}
+        - {x: 121, y: 85}
+        - {x: 110, y: 104}
+    - name: grass_17
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: 104}
+        - {x: 95, y: 104}
+        - {x: 38, y: 54}
+        - {x: 32, y: 33}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 121, y: 70}
+        - {x: 121, y: 81}
+        - {x: 120, y: 90}
+    - name: grass_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: 103}
+        - {x: 32, y: 49}
+        - {x: 32, y: 15}
+        - {x: 34, y: 14}
+        - {x: 103, y: 14}
+        - {x: 121, y: 58}
+        - {x: 121, y: 103}
+    - name: grass_19
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: 103}
+        - {x: 85, y: 97}
+        - {x: 32, y: 38}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 121, y: 68}
+        - {x: 121, y: 86}
+        - {x: 109, y: 103}
+    - name: grass_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: 104}
+        - {x: 97, y: 104}
+        - {x: 67, y: 88}
+        - {x: 39, y: 53}
+        - {x: 32, y: 30}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 121, y: 65}
+        - {x: 121, y: 86}
+        - {x: 120, y: 90}
+    - name: grass_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 120, y: 101}
+        - {x: 111, y: 104}
+        - {x: 85, y: 104}
+        - {x: 32, y: 37}
+        - {x: 32, y: 15}
+        - {x: 34, y: 14}
+        - {x: 87, y: 14}
+        - {x: 121, y: 68}
+        - {x: 121, y: 99}
+    - name: grass_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: 105}
+        - {x: 92, y: 105}
+        - {x: 33, y: 47}
+        - {x: 32, y: 42}
+        - {x: 32, y: 14}
+        - {x: 86, y: 14}
+        - {x: 88, y: 19}
+        - {x: 120, y: 71}
+        - {x: 120, y: 86}
+    - name: grass_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 116, y: 80}
+        - {x: 110, y: 78}
+        - {x: 111, y: 78}
+        - {x: 114, y: 81}
+        - {x: 116, y: 85}
+        - {x: 116, y: 92}
+        - {x: 103, y: 106}
+        - {x: 90, y: 106}
+        - {x: 38, y: 46}
+        - {x: 32, y: 33}
+        - {x: 32, y: 14}
+        - {x: 86, y: 14}
+        - {x: 88, y: 19}
+        - {x: 119, y: 73}
+        - {x: 119, y: 77}
+    - name: grass_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109, y: 78}
+        - {x: 95, y: 64}
+        - {x: 95, y: 63}
+        - {x: 95, y: 65}
+        - {x: 101, y: 70}
+        - {x: 109, y: 79}
+        - {x: 110, y: 79}
+        - {x: 113, y: 82}
+        - {x: 114, y: 87}
+        - {x: 113, y: 94}
+        - {x: 106, y: 107}
+        - {x: 92, y: 107}
+        - {x: 33, y: 55}
+        - {x: 32, y: 47}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 118, y: 70}
+        - {x: 118, y: 78}
+        - {x: 116, y: 82}
+    - name: grass_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114, y: 81}
+        - {x: 111, y: 81}
+        - {x: 107, y: 78}
+        - {x: 99, y: 70}
+        - {x: 99, y: 69}
+        - {x: 94, y: 64}
+        - {x: 94, y: 63}
+        - {x: 92, y: 62}
+        - {x: 97, y: 68}
+        - {x: 97, y: 69}
+        - {x: 111, y: 83}
+        - {x: 117, y: 90}
+        - {x: 107, y: 108}
+        - {x: 90, y: 108}
+        - {x: 34, y: 52}
+        - {x: 32, y: 38}
+        - {x: 32, y: 14}
+        - {x: 86, y: 14}
+        - {x: 90, y: 18}
+        - {x: 117, y: 76}
+        - {x: 117, y: 80}
+    - name: grass_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110, y: 82}
+        - {x: 103, y: 76}
+        - {x: 96, y: 68}
+        - {x: 96, y: 67}
+        - {x: 93, y: 64}
+        - {x: 93, y: 63}
+        - {x: 93, y: 65}
+        - {x: 95, y: 67}
+        - {x: 95, y: 68}
+        - {x: 98, y: 71}
+        - {x: 98, y: 72}
+        - {x: 116, y: 89}
+        - {x: 105, y: 109}
+        - {x: 88, y: 109}
+        - {x: 43, y: 62}
+        - {x: 32, y: 34}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 116, y: 73}
+        - {x: 116, y: 79}
+        - {x: 114, y: 83}
+    - name: grass_27
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109, y: 83}
+        - {x: 102, y: 77}
+        - {x: 97, y: 71}
+        - {x: 94, y: 67}
+        - {x: 94, y: 66}
+        - {x: 90, y: 62}
+        - {x: 92, y: 63}
+        - {x: 93, y: 67}
+        - {x: 98, y: 73}
+        - {x: 108, y: 84}
+        - {x: 111, y: 98}
+        - {x: 94, y: 111}
+        - {x: 88, y: 111}
+        - {x: 32, y: 56}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 114, y: 73}
+        - {x: 114, y: 80}
+        - {x: 112, y: 84}
+    - name: grass_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107, y: 84}
+        - {x: 100, y: 77}
+        - {x: 94, y: 70}
+        - {x: 90, y: 62}
+        - {x: 88, y: 59}
+        - {x: 88, y: 57}
+        - {x: 88, y: 60}
+        - {x: 92, y: 65}
+        - {x: 93, y: 69}
+        - {x: 105, y: 84}
+        - {x: 108, y: 93}
+        - {x: 105, y: 101}
+        - {x: 96, y: 112}
+        - {x: 87, y: 112}
+        - {x: 73, y: 101}
+        - {x: 33, y: 40}
+        - {x: 32, y: 32}
+        - {x: 32, y: 14}
+        - {x: 88, y: 14}
+        - {x: 113, y: 80}
+        - {x: 113, y: 82}
+        - {x: 110, y: 84}
+    - name: grass_29
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: 85}
+        - {x: 96, y: 75}
+        - {x: 91, y: 67}
+        - {x: 96, y: 74}
+        - {x: 104, y: 86}
+        - {x: 106, y: 90}
+        - {x: 105, y: 100}
+        - {x: 99, y: 113}
+        - {x: 78, y: 113}
+        - {x: 40, y: 80}
+        - {x: 32, y: 42}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 111, y: 75}
+        - {x: 111, y: 82}
+        - {x: 109, y: 86}
+    - name: grass_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104, y: 86}
+        - {x: 97, y: 79}
+        - {x: 92, y: 71}
+        - {x: 86, y: 58}
+        - {x: 85, y: 56}
+        - {x: 88, y: 62}
+        - {x: 88, y: 64}
+        - {x: 99, y: 81}
+        - {x: 104, y: 90}
+        - {x: 103, y: 104}
+        - {x: 92, y: 115}
+        - {x: 78, y: 115}
+        - {x: 32, y: 42}
+        - {x: 32, y: 15}
+        - {x: 34, y: 14}
+        - {x: 88, y: 14}
+        - {x: 109, y: 76}
+        - {x: 109, y: 83}
+        - {x: 107, y: 87}
+    - name: grass_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103, y: 87}
+        - {x: 98, y: 82}
+        - {x: 94, y: 77}
+        - {x: 87, y: 62}
+        - {x: 87, y: 60}
+        - {x: 85, y: 57}
+        - {x: 85, y: 55}
+        - {x: 84, y: 54}
+        - {x: 84, y: 52}
+        - {x: 84, y: 55}
+        - {x: 85, y: 56}
+        - {x: 87, y: 64}
+        - {x: 97, y: 81}
+        - {x: 102, y: 88}
+        - {x: 105, y: 103}
+        - {x: 89, y: 116}
+        - {x: 74, y: 116}
+        - {x: 32, y: 50}
+        - {x: 32, y: 14}
+        - {x: 88, y: 14}
+        - {x: 108, y: 82}
+        - {x: 108, y: 84}
+        - {x: 104, y: 87}
+    - name: grass_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 82}
+        - {x: 93, y: 78}
+        - {x: 91, y: 73}
+        - {x: 87, y: 64}
+        - {x: 87, y: 62}
+        - {x: 85, y: 59}
+        - {x: 85, y: 57}
+        - {x: 84, y: 56}
+        - {x: 84, y: 54}
+        - {x: 84, y: 57}
+        - {x: 85, y: 58}
+        - {x: 85, y: 60}
+        - {x: 86, y: 61}
+        - {x: 88, y: 69}
+        - {x: 99, y: 90}
+        - {x: 102, y: 104}
+        - {x: 84, y: 117}
+        - {x: 73, y: 117}
+        - {x: 32, y: 77}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 106, y: 84}
+        - {x: 103, y: 87}
+        - {x: 100, y: 87}
+    - name: grass_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 86}
+        - {x: 89, y: 71}
+        - {x: 85, y: 61}
+        - {x: 84, y: 55}
+        - {x: 83, y: 54}
+        - {x: 82, y: 48}
+        - {x: 83, y: 53}
+        - {x: 83, y: 56}
+        - {x: 85, y: 60}
+        - {x: 85, y: 63}
+        - {x: 86, y: 64}
+        - {x: 89, y: 72}
+        - {x: 98, y: 90}
+        - {x: 98, y: 98}
+        - {x: 96, y: 103}
+        - {x: 86, y: 117}
+        - {x: 75, y: 117}
+        - {x: 67, y: 112}
+        - {x: 41, y: 58}
+        - {x: 39, y: 53}
+        - {x: 35, y: 40}
+        - {x: 32, y: 31}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 104, y: 75}
+        - {x: 104, y: 85}
+        - {x: 102, y: 90}
+    - name: grass_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 88}
+        - {x: 88, y: 71}
+        - {x: 87, y: 66}
+        - {x: 84, y: 60}
+        - {x: 84, y: 57}
+        - {x: 82, y: 53}
+        - {x: 83, y: 55}
+        - {x: 84, y: 62}
+        - {x: 85, y: 63}
+        - {x: 87, y: 69}
+        - {x: 95, y: 89}
+        - {x: 100, y: 97}
+        - {x: 85, y: 118}
+        - {x: 72, y: 118}
+        - {x: 43, y: 68}
+        - {x: 34, y: 42}
+        - {x: 32, y: 32}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 103, y: 73}
+        - {x: 103, y: 86}
+        - {x: 101, y: 91}
+    - name: grass_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: 89}
+        - {x: 91, y: 81}
+        - {x: 89, y: 76}
+        - {x: 86, y: 68}
+        - {x: 86, y: 65}
+        - {x: 85, y: 64}
+        - {x: 85, y: 62}
+        - {x: 83, y: 58}
+        - {x: 82, y: 54}
+        - {x: 83, y: 57}
+        - {x: 84, y: 64}
+        - {x: 86, y: 68}
+        - {x: 86, y: 71}
+        - {x: 87, y: 72}
+        - {x: 92, y: 85}
+        - {x: 96, y: 93}
+        - {x: 93, y: 109}
+        - {x: 80, y: 116}
+        - {x: 77, y: 118}
+        - {x: 70, y: 118}
+        - {x: 58, y: 98}
+        - {x: 40, y: 63}
+        - {x: 38, y: 57}
+        - {x: 32, y: 33}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 101, y: 73}
+        - {x: 101, y: 86}
+        - {x: 99, y: 91}
+    - name: grass_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: 89}
+        - {x: 88, y: 76}
+        - {x: 86, y: 70}
+        - {x: 84, y: 63}
+        - {x: 84, y: 60}
+        - {x: 83, y: 59}
+        - {x: 83, y: 56}
+        - {x: 82, y: 55}
+        - {x: 81, y: 48}
+        - {x: 82, y: 53}
+        - {x: 83, y: 62}
+        - {x: 84, y: 63}
+        - {x: 85, y: 70}
+        - {x: 86, y: 71}
+        - {x: 88, y: 77}
+        - {x: 95, y: 90}
+        - {x: 93, y: 106}
+        - {x: 81, y: 119}
+        - {x: 70, y: 119}
+        - {x: 48, y: 97}
+        - {x: 32, y: 55}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 101, y: 84}
+        - {x: 101, y: 87}
+        - {x: 97, y: 89}
+    - name: grass_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: 89}
+        - {x: 90, y: 83}
+        - {x: 85, y: 68}
+        - {x: 84, y: 64}
+        - {x: 83, y: 58}
+        - {x: 82, y: 57}
+        - {x: 81, y: 48}
+        - {x: 82, y: 54}
+        - {x: 83, y: 64}
+        - {x: 84, y: 65}
+        - {x: 86, y: 73}
+        - {x: 90, y: 85}
+        - {x: 94, y: 90}
+        - {x: 92, y: 106}
+        - {x: 83, y: 119}
+        - {x: 66, y: 119}
+        - {x: 32, y: 73}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 100, y: 77}
+        - {x: 100, y: 88}
+        - {x: 97, y: 89}
+    - name: grass_38
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: 89}
+        - {x: 91, y: 87}
+        - {x: 89, y: 82}
+        - {x: 87, y: 76}
+        - {x: 83, y: 62}
+        - {x: 83, y: 58}
+        - {x: 82, y: 57}
+        - {x: 81, y: 49}
+        - {x: 82, y: 56}
+        - {x: 82, y: 60}
+        - {x: 83, y: 61}
+        - {x: 83, y: 65}
+        - {x: 84, y: 66}
+        - {x: 86, y: 74}
+        - {x: 91, y: 90}
+        - {x: 91, y: 100}
+        - {x: 89, y: 106}
+        - {x: 77, y: 119}
+        - {x: 63, y: 119}
+        - {x: 32, y: 73}
+        - {x: 32, y: 14}
+        - {x: 88, y: 14}
+        - {x: 89, y: 19}
+        - {x: 99, y: 79}
+        - {x: 99, y: 89}
+    - name: grass_39
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: 79}
+        - {x: 84, y: 66}
+        - {x: 84, y: 63}
+        - {x: 83, y: 62}
+        - {x: 83, y: 59}
+        - {x: 82, y: 58}
+        - {x: 82, y: 54}
+        - {x: 81, y: 53}
+        - {x: 82, y: 56}
+        - {x: 82, y: 60}
+        - {x: 83, y: 61}
+        - {x: 83, y: 65}
+        - {x: 84, y: 66}
+        - {x: 84, y: 69}
+        - {x: 85, y: 70}
+        - {x: 90, y: 87}
+        - {x: 91, y: 95}
+        - {x: 93, y: 107}
+        - {x: 76, y: 119}
+        - {x: 62, y: 119}
+        - {x: 34, y: 72}
+        - {x: 32, y: 54}
+        - {x: 32, y: 14}
+        - {x: 88, y: 14}
+        - {x: 99, y: 75}
+        - {x: 99, y: 89}
+        - {x: 92, y: 90}
+    - name: grass_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: 79}
+        - {x: 86, y: 73}
+        - {x: 84, y: 66}
+        - {x: 84, y: 63}
+        - {x: 83, y: 62}
+        - {x: 83, y: 59}
+        - {x: 82, y: 58}
+        - {x: 82, y: 54}
+        - {x: 81, y: 53}
+        - {x: 82, y: 56}
+        - {x: 82, y: 60}
+        - {x: 83, y: 61}
+        - {x: 83, y: 65}
+        - {x: 84, y: 66}
+        - {x: 84, y: 69}
+        - {x: 85, y: 70}
+        - {x: 87, y: 78}
+        - {x: 91, y: 90}
+        - {x: 92, y: 106}
+        - {x: 77, y: 119}
+        - {x: 66, y: 119}
+        - {x: 38, y: 71}
+        - {x: 32, y: 36}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 99, y: 68}
+        - {x: 99, y: 90}
+        - {x: 92, y: 90}
+    - name: grass_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: 87}
+        - {x: 87, y: 76}
+        - {x: 83, y: 62}
+        - {x: 83, y: 58}
+        - {x: 82, y: 57}
+        - {x: 81, y: 49}
+        - {x: 82, y: 56}
+        - {x: 82, y: 60}
+        - {x: 83, y: 61}
+        - {x: 83, y: 65}
+        - {x: 84, y: 66}
+        - {x: 86, y: 74}
+        - {x: 91, y: 90}
+        - {x: 93, y: 100}
+        - {x: 80, y: 119}
+        - {x: 67, y: 119}
+        - {x: 61, y: 114}
+        - {x: 38, y: 71}
+        - {x: 32, y: 34}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 99, y: 71}
+        - {x: 99, y: 92}
+    - name: grass_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: 86}
+        - {x: 88, y: 78}
+        - {x: 85, y: 69}
+        - {x: 85, y: 66}
+        - {x: 84, y: 65}
+        - {x: 84, y: 62}
+        - {x: 83, y: 61}
+        - {x: 83, y: 58}
+        - {x: 82, y: 57}
+        - {x: 81, y: 53}
+        - {x: 82, y: 55}
+        - {x: 83, y: 64}
+        - {x: 84, y: 65}
+        - {x: 84, y: 68}
+        - {x: 85, y: 69}
+        - {x: 86, y: 76}
+        - {x: 87, y: 77}
+        - {x: 89, y: 83}
+        - {x: 92, y: 94}
+        - {x: 90, y: 105}
+        - {x: 77, y: 117}
+        - {x: 74, y: 119}
+        - {x: 67, y: 119}
+        - {x: 38, y: 70}
+        - {x: 32, y: 38}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 99, y: 73}
+        - {x: 99, y: 89}
+        - {x: 93, y: 90}
+    - name: grass_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: 89}
+        - {x: 94, y: 89}
+        - {x: 90, y: 83}
+        - {x: 87, y: 75}
+        - {x: 86, y: 71}
+        - {x: 83, y: 61}
+        - {x: 82, y: 53}
+        - {x: 81, y: 52}
+        - {x: 82, y: 55}
+        - {x: 83, y: 64}
+        - {x: 84, y: 65}
+        - {x: 88, y: 79}
+        - {x: 92, y: 87}
+        - {x: 95, y: 108}
+        - {x: 74, y: 119}
+        - {x: 64, y: 119}
+        - {x: 38, y: 70}
+        - {x: 32, y: 37}
+        - {x: 32, y: 14}
+        - {x: 88, y: 14}
+        - {x: 89, y: 19}
+        - {x: 100, y: 84}
+        - {x: 100, y: 87}
+    - name: grass_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93, y: 89}
+        - {x: 89, y: 80}
+        - {x: 86, y: 71}
+        - {x: 84, y: 64}
+        - {x: 84, y: 61}
+        - {x: 83, y: 60}
+        - {x: 83, y: 57}
+        - {x: 82, y: 56}
+        - {x: 81, y: 52}
+        - {x: 82, y: 54}
+        - {x: 83, y: 63}
+        - {x: 84, y: 64}
+        - {x: 85, y: 71}
+        - {x: 87, y: 75}
+        - {x: 88, y: 79}
+        - {x: 90, y: 84}
+        - {x: 92, y: 90}
+        - {x: 93, y: 106}
+        - {x: 75, y: 119}
+        - {x: 67, y: 119}
+        - {x: 38, y: 69}
+        - {x: 32, y: 32}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 100, y: 83}
+        - {x: 100, y: 87}
+        - {x: 97, y: 89}
+    - name: grass_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: 87}
+        - {x: 88, y: 76}
+        - {x: 85, y: 67}
+        - {x: 85, y: 64}
+        - {x: 83, y: 60}
+        - {x: 81, y: 48}
+        - {x: 83, y: 59}
+        - {x: 83, y: 62}
+        - {x: 84, y: 63}
+        - {x: 85, y: 70}
+        - {x: 87, y: 74}
+        - {x: 91, y: 86}
+        - {x: 97, y: 107}
+        - {x: 78, y: 119}
+        - {x: 66, y: 119}
+        - {x: 37, y: 66}
+        - {x: 32, y: 35}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 100, y: 70}
+        - {x: 100, y: 89}
+        - {x: 94, y: 91}
+    - name: grass_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: 90}
+        - {x: 94, y: 89}
+        - {x: 89, y: 78}
+        - {x: 85, y: 66}
+        - {x: 85, y: 63}
+        - {x: 83, y: 59}
+        - {x: 83, y: 56}
+        - {x: 82, y: 55}
+        - {x: 82, y: 52}
+        - {x: 81, y: 51}
+        - {x: 81, y: 47}
+        - {x: 82, y: 57}
+        - {x: 83, y: 58}
+        - {x: 83, y: 61}
+        - {x: 84, y: 62}
+        - {x: 85, y: 69}
+        - {x: 87, y: 73}
+        - {x: 88, y: 77}
+        - {x: 91, y: 81}
+        - {x: 96, y: 99}
+        - {x: 87, y: 113}
+        - {x: 74, y: 119}
+        - {x: 70, y: 119}
+        - {x: 51, y: 86}
+        - {x: 42, y: 66}
+        - {x: 40, y: 60}
+        - {x: 36, y: 47}
+        - {x: 34, y: 38}
+        - {x: 33, y: 32}
+        - {x: 32, y: 16}
+        - {x: 34, y: 14}
+        - {x: 86, y: 14}
+        - {x: 88, y: 19}
+        - {x: 101, y: 77}
+        - {x: 101, y: 86}
+    - name: grass_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93, y: 87}
+        - {x: 91, y: 82}
+        - {x: 88, y: 74}
+        - {x: 86, y: 68}
+        - {x: 86, y: 66}
+        - {x: 84, y: 62}
+        - {x: 84, y: 59}
+        - {x: 83, y: 58}
+        - {x: 83, y: 55}
+        - {x: 82, y: 54}
+        - {x: 81, y: 47}
+        - {x: 82, y: 52}
+        - {x: 82, y: 56}
+        - {x: 83, y: 57}
+        - {x: 83, y: 60}
+        - {x: 84, y: 61}
+        - {x: 85, y: 68}
+        - {x: 86, y: 69}
+        - {x: 89, y: 78}
+        - {x: 92, y: 86}
+        - {x: 94, y: 88}
+        - {x: 95, y: 98}
+        - {x: 95, y: 106}
+        - {x: 81, y: 118}
+        - {x: 79, y: 119}
+        - {x: 70, y: 119}
+        - {x: 39, y: 63}
+        - {x: 32, y: 40}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 101, y: 79}
+        - {x: 101, y: 88}
+        - {x: 95, y: 90}
+    - name: grass_48
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: 83}
+        - {x: 89, y: 76}
+        - {x: 85, y: 64}
+        - {x: 85, y: 62}
+        - {x: 83, y: 58}
+        - {x: 84, y: 61}
+        - {x: 87, y: 71}
+        - {x: 94, y: 90}
+        - {x: 95, y: 104}
+        - {x: 89, y: 118}
+        - {x: 70, y: 118}
+        - {x: 32, y: 76}
+        - {x: 32, y: 14}
+        - {x: 88, y: 14}
+        - {x: 102, y: 82}
+        - {x: 102, y: 88}
+        - {x: 97, y: 89}
+    - name: grass_49
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: 82}
+        - {x: 87, y: 69}
+        - {x: 85, y: 63}
+        - {x: 85, y: 61}
+        - {x: 83, y: 57}
+        - {x: 82, y: 50}
+        - {x: 83, y: 55}
+        - {x: 84, y: 63}
+        - {x: 85, y: 64}
+        - {x: 86, y: 67}
+        - {x: 89, y: 78}
+        - {x: 95, y: 87}
+        - {x: 98, y: 98}
+        - {x: 84, y: 118}
+        - {x: 68, y: 118}
+        - {x: 32, y: 54}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 102, y: 84}
+        - {x: 102, y: 87}
+        - {x: 97, y: 89}
+    - name: grass_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 88}
+        - {x: 88, y: 71}
+        - {x: 84, y: 59}
+        - {x: 84, y: 57}
+        - {x: 82, y: 53}
+        - {x: 83, y: 55}
+        - {x: 84, y: 62}
+        - {x: 85, y: 63}
+        - {x: 87, y: 69}
+        - {x: 95, y: 89}
+        - {x: 100, y: 97}
+        - {x: 85, y: 118}
+        - {x: 69, y: 118}
+        - {x: 34, y: 53}
+        - {x: 32, y: 31}
+        - {x: 32, y: 15}
+        - {x: 34, y: 14}
+        - {x: 88, y: 14}
+        - {x: 103, y: 83}
+        - {x: 103, y: 86}
+        - {x: 100, y: 88}
+    - name: grass_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 88}
+        - {x: 95, y: 86}
+        - {x: 90, y: 75}
+        - {x: 88, y: 70}
+        - {x: 87, y: 65}
+        - {x: 84, y: 59}
+        - {x: 84, y: 56}
+        - {x: 82, y: 52}
+        - {x: 83, y: 54}
+        - {x: 84, y: 61}
+        - {x: 85, y: 62}
+        - {x: 88, y: 73}
+        - {x: 90, y: 76}
+        - {x: 96, y: 90}
+        - {x: 98, y: 104}
+        - {x: 85, y: 117}
+        - {x: 83, y: 118}
+        - {x: 69, y: 118}
+        - {x: 32, y: 48}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 103, y: 75}
+        - {x: 103, y: 86}
+        - {x: 102, y: 89}
+    - name: grass_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: 88}
+        - {x: 94, y: 83}
+        - {x: 90, y: 74}
+        - {x: 90, y: 72}
+        - {x: 86, y: 64}
+        - {x: 86, y: 62}
+        - {x: 85, y: 61}
+        - {x: 85, y: 59}
+        - {x: 83, y: 55}
+        - {x: 82, y: 49}
+        - {x: 83, y: 53}
+        - {x: 84, y: 60}
+        - {x: 85, y: 61}
+        - {x: 85, y: 63}
+        - {x: 86, y: 64}
+        - {x: 88, y: 72}
+        - {x: 90, y: 75}
+        - {x: 96, y: 88}
+        - {x: 104, y: 91}
+        - {x: 104, y: 93}
+        - {x: 91, y: 117}
+        - {x: 71, y: 117}
+        - {x: 36, y: 58}
+        - {x: 32, y: 40}
+        - {x: 32, y: 16}
+        - {x: 33, y: 14}
+        - {x: 87, y: 14}
+        - {x: 104, y: 77}
+        - {x: 104, y: 85}
+        - {x: 102, y: 89}
+    - name: grass_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 88}
+        - {x: 96, y: 85}
+        - {x: 91, y: 75}
+        - {x: 88, y: 68}
+        - {x: 88, y: 66}
+        - {x: 86, y: 63}
+        - {x: 86, y: 61}
+        - {x: 85, y: 60}
+        - {x: 85, y: 58}
+        - {x: 84, y: 57}
+        - {x: 84, y: 55}
+        - {x: 84, y: 59}
+        - {x: 85, y: 60}
+        - {x: 85, y: 62}
+        - {x: 86, y: 63}
+        - {x: 88, y: 71}
+        - {x: 91, y: 76}
+        - {x: 99, y: 92}
+        - {x: 97, y: 103}
+        - {x: 94, y: 105}
+        - {x: 85, y: 115}
+        - {x: 81, y: 117}
+        - {x: 76, y: 117}
+        - {x: 44, y: 67}
+        - {x: 35, y: 47}
+        - {x: 32, y: 28}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 105, y: 81}
+        - {x: 105, y: 86}
+    - name: grass_54
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 84}
+        - {x: 87, y: 65}
+        - {x: 87, y: 63}
+        - {x: 86, y: 62}
+        - {x: 86, y: 60}
+        - {x: 85, y: 59}
+        - {x: 85, y: 57}
+        - {x: 84, y: 56}
+        - {x: 84, y: 54}
+        - {x: 84, y: 58}
+        - {x: 85, y: 59}
+        - {x: 85, y: 61}
+        - {x: 86, y: 62}
+        - {x: 88, y: 70}
+        - {x: 92, y: 77}
+        - {x: 98, y: 89}
+        - {x: 99, y: 97}
+        - {x: 96, y: 105}
+        - {x: 91, y: 117}
+        - {x: 76, y: 117}
+        - {x: 48, y: 98}
+        - {x: 32, y: 33}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 105, y: 77}
+        - {x: 105, y: 87}
+        - {x: 99, y: 88}
+    - name: grass_55
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 82}
+        - {x: 93, y: 78}
+        - {x: 91, y: 73}
+        - {x: 87, y: 64}
+        - {x: 87, y: 62}
+        - {x: 85, y: 59}
+        - {x: 85, y: 57}
+        - {x: 84, y: 56}
+        - {x: 84, y: 54}
+        - {x: 84, y: 57}
+        - {x: 85, y: 58}
+        - {x: 85, y: 60}
+        - {x: 86, y: 61}
+        - {x: 88, y: 69}
+        - {x: 100, y: 89}
+        - {x: 100, y: 102}
+        - {x: 89, y: 117}
+        - {x: 72, y: 117}
+        - {x: 45, y: 104}
+        - {x: 32, y: 49}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 106, y: 84}
+        - {x: 103, y: 87}
+        - {x: 100, y: 87}
+    - name: grass_56
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101, y: 87}
+        - {x: 96, y: 82}
+        - {x: 89, y: 68}
+        - {x: 86, y: 61}
+        - {x: 86, y: 59}
+        - {x: 85, y: 58}
+        - {x: 84, y: 55}
+        - {x: 84, y: 53}
+        - {x: 85, y: 57}
+        - {x: 86, y: 63}
+        - {x: 100, y: 91}
+        - {x: 100, y: 95}
+        - {x: 99, y: 100}
+        - {x: 98, y: 103}
+        - {x: 84, y: 116}
+        - {x: 79, y: 116}
+        - {x: 62, y: 92}
+        - {x: 55, y: 82}
+        - {x: 37, y: 49}
+        - {x: 34, y: 39}
+        - {x: 32, y: 29}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 106, y: 74}
+        - {x: 106, y: 84}
+        - {x: 104, y: 89}
+    - name: grass_57
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93, y: 76}
+        - {x: 88, y: 65}
+        - {x: 88, y: 63}
+        - {x: 86, y: 60}
+        - {x: 88, y: 65}
+        - {x: 88, y: 67}
+        - {x: 97, y: 82}
+        - {x: 100, y: 89}
+        - {x: 103, y: 97}
+        - {x: 97, y: 116}
+        - {x: 76, y: 116}
+        - {x: 67, y: 113}
+        - {x: 32, y: 45}
+        - {x: 32, y: 14}
+        - {x: 88, y: 14}
+        - {x: 107, y: 78}
+        - {x: 107, y: 86}
+        - {x: 101, y: 88}
+    - name: grass_58
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103, y: 87}
+        - {x: 98, y: 82}
+        - {x: 94, y: 77}
+        - {x: 87, y: 62}
+        - {x: 87, y: 60}
+        - {x: 85, y: 57}
+        - {x: 85, y: 55}
+        - {x: 84, y: 54}
+        - {x: 84, y: 52}
+        - {x: 84, y: 55}
+        - {x: 85, y: 56}
+        - {x: 87, y: 64}
+        - {x: 97, y: 81}
+        - {x: 102, y: 88}
+        - {x: 103, y: 102}
+        - {x: 91, y: 115}
+        - {x: 78, y: 115}
+        - {x: 49, y: 96}
+        - {x: 32, y: 43}
+        - {x: 32, y: 14}
+        - {x: 88, y: 14}
+        - {x: 108, y: 82}
+        - {x: 108, y: 84}
+        - {x: 104, y: 87}
+    - name: grass_59
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: 87}
+        - {x: 97, y: 81}
+        - {x: 94, y: 76}
+        - {x: 86, y: 59}
+        - {x: 84, y: 52}
+        - {x: 86, y: 58}
+        - {x: 87, y: 63}
+        - {x: 93, y: 73}
+        - {x: 101, y: 88}
+        - {x: 103, y: 92}
+        - {x: 102, y: 101}
+        - {x: 90, y: 115}
+        - {x: 80, y: 115}
+        - {x: 41, y: 83}
+        - {x: 32, y: 46}
+        - {x: 32, y: 14}
+        - {x: 90, y: 14}
+        - {x: 108, y: 79}
+        - {x: 108, y: 85}
+        - {x: 104, y: 87}
+    - name: grass_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103, y: 87}
+        - {x: 97, y: 80}
+        - {x: 94, y: 76}
+        - {x: 91, y: 71}
+        - {x: 88, y: 64}
+        - {x: 88, y: 62}
+        - {x: 85, y: 57}
+        - {x: 84, y: 54}
+        - {x: 83, y: 49}
+        - {x: 86, y: 61}
+        - {x: 89, y: 66}
+        - {x: 89, y: 68}
+        - {x: 95, y: 77}
+        - {x: 103, y: 88}
+        - {x: 106, y: 104}
+        - {x: 90, y: 116}
+        - {x: 78, y: 116}
+        - {x: 39, y: 66}
+        - {x: 32, y: 38}
+        - {x: 32, y: 15}
+        - {x: 87, y: 15}
+        - {x: 109, y: 81}
+        - {x: 109, y: 85}
+        - {x: 106, y: 87}
+    - name: grass_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104, y: 86}
+        - {x: 97, y: 79}
+        - {x: 92, y: 71}
+        - {x: 86, y: 58}
+        - {x: 85, y: 56}
+        - {x: 88, y: 62}
+        - {x: 88, y: 64}
+        - {x: 94, y: 73}
+        - {x: 97, y: 78}
+        - {x: 103, y: 86}
+        - {x: 105, y: 95}
+        - {x: 102, y: 104}
+        - {x: 88, y: 115}
+        - {x: 82, y: 115}
+        - {x: 45, y: 61}
+        - {x: 35, y: 44}
+        - {x: 32, y: 29}
+        - {x: 32, y: 14}
+        - {x: 88, y: 14}
+        - {x: 109, y: 76}
+        - {x: 109, y: 83}
+        - {x: 107, y: 87}
+    - name: grass_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105, y: 86}
+        - {x: 100, y: 81}
+        - {x: 95, y: 74}
+        - {x: 92, y: 70}
+        - {x: 94, y: 72}
+        - {x: 99, y: 80}
+        - {x: 105, y: 87}
+        - {x: 107, y: 95}
+        - {x: 93, y: 114}
+        - {x: 79, y: 114}
+        - {x: 36, y: 50}
+        - {x: 32, y: 33}
+        - {x: 32, y: 14}
+        - {x: 88, y: 14}
+        - {x: 110, y: 79}
+        - {x: 110, y: 83}
+        - {x: 106, y: 86}
+    - name: grass_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105, y: 85}
+        - {x: 100, y: 81}
+        - {x: 95, y: 74}
+        - {x: 92, y: 69}
+        - {x: 94, y: 71}
+        - {x: 95, y: 75}
+        - {x: 110, y: 93}
+        - {x: 95, y: 114}
+        - {x: 85, y: 114}
+        - {x: 79, y: 107}
+        - {x: 64, y: 87}
+        - {x: 42, y: 59}
+        - {x: 32, y: 32}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 111, y: 80}
+        - {x: 111, y: 83}
+        - {x: 108, y: 85}
+    - name: grass_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: 85}
+        - {x: 101, y: 80}
+        - {x: 95, y: 72}
+        - {x: 89, y: 63}
+        - {x: 87, y: 58}
+        - {x: 87, y: 56}
+        - {x: 87, y: 59}
+        - {x: 92, y: 68}
+        - {x: 94, y: 70}
+        - {x: 95, y: 73}
+        - {x: 101, y: 81}
+        - {x: 109, y: 92}
+        - {x: 103, y: 105}
+        - {x: 90, y: 113}
+        - {x: 86, y: 113}
+        - {x: 71, y: 102}
+        - {x: 32, y: 43}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 111, y: 79}
+        - {x: 111, y: 82}
+        - {x: 108, y: 85}
+    - name: grass_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: 81}
+        - {x: 110, y: 85}
+        - {x: 106, y: 84}
+        - {x: 101, y: 79}
+        - {x: 95, y: 71}
+        - {x: 95, y: 70}
+        - {x: 93, y: 69}
+        - {x: 90, y: 64}
+        - {x: 94, y: 70}
+        - {x: 94, y: 71}
+        - {x: 96, y: 72}
+        - {x: 105, y: 84}
+        - {x: 108, y: 90}
+        - {x: 107, y: 98}
+        - {x: 96, y: 113}
+        - {x: 85, y: 113}
+        - {x: 35, y: 59}
+        - {x: 32, y: 42}
+        - {x: 32, y: 14}
+        - {x: 86, y: 14}
+        - {x: 88, y: 19}
+        - {x: 112, y: 74}
+    - name: grass_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: 85}
+        - {x: 108, y: 84}
+        - {x: 102, y: 80}
+        - {x: 98, y: 74}
+        - {x: 95, y: 70}
+        - {x: 95, y: 69}
+        - {x: 91, y: 65}
+        - {x: 94, y: 69}
+        - {x: 94, y: 70}
+        - {x: 96, y: 71}
+        - {x: 98, y: 75}
+        - {x: 108, y: 85}
+        - {x: 110, y: 93}
+        - {x: 99, y: 112}
+        - {x: 86, y: 112}
+        - {x: 71, y: 99}
+        - {x: 43, y: 66}
+        - {x: 32, y: 33}
+        - {x: 32, y: 14}
+        - {x: 86, y: 14}
+        - {x: 88, y: 19}
+        - {x: 113, y: 75}
+        - {x: 113, y: 81}
+    - name: grass_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114, y: 80}
+        - {x: 111, y: 85}
+        - {x: 109, y: 84}
+        - {x: 102, y: 79}
+        - {x: 97, y: 72}
+        - {x: 97, y: 71}
+        - {x: 95, y: 69}
+        - {x: 93, y: 66}
+        - {x: 93, y: 65}
+        - {x: 91, y: 63}
+        - {x: 91, y: 62}
+        - {x: 89, y: 61}
+        - {x: 88, y: 57}
+        - {x: 89, y: 61}
+        - {x: 91, y: 62}
+        - {x: 93, y: 67}
+        - {x: 96, y: 70}
+        - {x: 98, y: 74}
+        - {x: 107, y: 84}
+        - {x: 108, y: 97}
+        - {x: 95, y: 111}
+        - {x: 87, y: 111}
+        - {x: 59, y: 84}
+        - {x: 32, y: 36}
+        - {x: 32, y: 14}
+        - {x: 86, y: 14}
+        - {x: 88, y: 19}
+        - {x: 114, y: 75}
+    - name: grass_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109, y: 83}
+        - {x: 102, y: 77}
+        - {x: 97, y: 71}
+        - {x: 94, y: 67}
+        - {x: 94, y: 66}
+        - {x: 90, y: 62}
+        - {x: 92, y: 63}
+        - {x: 93, y: 67}
+        - {x: 98, y: 73}
+        - {x: 108, y: 84}
+        - {x: 111, y: 91}
+        - {x: 106, y: 111}
+        - {x: 88, y: 111}
+        - {x: 76, y: 108}
+        - {x: 32, y: 56}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 114, y: 73}
+        - {x: 114, y: 80}
+        - {x: 112, y: 84}
+    - name: grass_69
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110, y: 83}
+        - {x: 107, y: 81}
+        - {x: 101, y: 75}
+        - {x: 96, y: 69}
+        - {x: 96, y: 68}
+        - {x: 93, y: 66}
+        - {x: 90, y: 60}
+        - {x: 93, y: 64}
+        - {x: 94, y: 67}
+        - {x: 98, y: 72}
+        - {x: 98, y: 73}
+        - {x: 104, y: 79}
+        - {x: 109, y: 85}
+        - {x: 112, y: 91}
+        - {x: 107, y: 100}
+        - {x: 99, y: 110}
+        - {x: 85, y: 110}
+        - {x: 79, y: 108}
+        - {x: 32, y: 37}
+        - {x: 32, y: 14}
+        - {x: 90, y: 14}
+        - {x: 115, y: 75}
+        - {x: 115, y: 79}
+        - {x: 113, y: 84}
+    - name: grass_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: 83}
+        - {x: 108, y: 81}
+        - {x: 98, y: 71}
+        - {x: 98, y: 70}
+        - {x: 94, y: 66}
+        - {x: 94, y: 65}
+        - {x: 90, y: 61}
+        - {x: 92, y: 62}
+        - {x: 94, y: 66}
+        - {x: 97, y: 70}
+        - {x: 97, y: 71}
+        - {x: 102, y: 76}
+        - {x: 109, y: 84}
+        - {x: 110, y: 90}
+        - {x: 110, y: 95}
+        - {x: 97, y: 110}
+        - {x: 93, y: 110}
+        - {x: 91, y: 109}
+        - {x: 83, y: 103}
+        - {x: 32, y: 42}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 115, y: 76}
+        - {x: 115, y: 82}
+        - {x: 112, y: 83}
+    - name: grass_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110, y: 82}
+        - {x: 96, y: 68}
+        - {x: 96, y: 67}
+        - {x: 93, y: 64}
+        - {x: 93, y: 63}
+        - {x: 95, y: 67}
+        - {x: 99, y: 72}
+        - {x: 110, y: 84}
+        - {x: 111, y: 89}
+        - {x: 110, y: 95}
+        - {x: 104, y: 109}
+        - {x: 88, y: 109}
+        - {x: 47, y: 84}
+        - {x: 32, y: 34}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 116, y: 75}
+        - {x: 116, y: 81}
+        - {x: 113, y: 82}
+    - name: grass_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: 82}
+        - {x: 108, y: 80}
+        - {x: 98, y: 70}
+        - {x: 98, y: 69}
+        - {x: 94, y: 65}
+        - {x: 94, y: 64}
+        - {x: 90, y: 59}
+        - {x: 92, y: 62}
+        - {x: 92, y: 63}
+        - {x: 94, y: 64}
+        - {x: 96, y: 68}
+        - {x: 110, y: 82}
+        - {x: 112, y: 95}
+        - {x: 101, y: 109}
+        - {x: 62, y: 109}
+        - {x: 32, y: 38}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 116, y: 74}
+        - {x: 116, y: 82}
+    - name: grass_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: 82}
+        - {x: 107, y: 79}
+        - {x: 99, y: 71}
+        - {x: 99, y: 70}
+        - {x: 95, y: 66}
+        - {x: 95, y: 65}
+        - {x: 92, y: 63}
+        - {x: 89, y: 57}
+        - {x: 90, y: 59}
+        - {x: 94, y: 65}
+        - {x: 94, y: 66}
+        - {x: 97, y: 69}
+        - {x: 97, y: 70}
+        - {x: 111, y: 84}
+        - {x: 112, y: 86}
+        - {x: 112, y: 95}
+        - {x: 105, y: 109}
+        - {x: 89, y: 109}
+        - {x: 32, y: 58}
+        - {x: 32, y: 14}
+        - {x: 88, y: 14}
+        - {x: 116, y: 73}
+        - {x: 116, y: 81}
+        - {x: 113, y: 82}
+    - name: grass_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114, y: 84}
+        - {x: 111, y: 82}
+        - {x: 107, y: 79}
+        - {x: 100, y: 72}
+        - {x: 100, y: 71}
+        - {x: 95, y: 66}
+        - {x: 95, y: 65}
+        - {x: 92, y: 63}
+        - {x: 89, y: 57}
+        - {x: 90, y: 59}
+        - {x: 94, y: 65}
+        - {x: 94, y: 66}
+        - {x: 98, y: 70}
+        - {x: 98, y: 71}
+        - {x: 111, y: 84}
+        - {x: 112, y: 86}
+        - {x: 115, y: 96}
+        - {x: 98, y: 109}
+        - {x: 91, y: 109}
+        - {x: 42, y: 58}
+        - {x: 32, y: 32}
+        - {x: 32, y: 14}
+        - {x: 86, y: 14}
+        - {x: 88, y: 19}
+        - {x: 116, y: 71}
+        - {x: 116, y: 79}
+    - name: grass_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: 69}
+        - {x: 94, y: 65}
+        - {x: 94, y: 64}
+        - {x: 91, y: 62}
+        - {x: 93, y: 63}
+        - {x: 95, y: 67}
+        - {x: 99, y: 72}
+        - {x: 110, y: 84}
+        - {x: 116, y: 89}
+        - {x: 116, y: 92}
+        - {x: 106, y: 109}
+        - {x: 87, y: 109}
+        - {x: 32, y: 48}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 116, y: 74}
+        - {x: 116, y: 82}
+        - {x: 110, y: 83}
+    - name: grass_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110, y: 84}
+        - {x: 100, y: 74}
+        - {x: 96, y: 69}
+        - {x: 96, y: 68}
+        - {x: 93, y: 66}
+        - {x: 90, y: 60}
+        - {x: 93, y: 64}
+        - {x: 94, y: 67}
+        - {x: 97, y: 71}
+        - {x: 97, y: 72}
+        - {x: 110, y: 84}
+        - {x: 114, y: 92}
+        - {x: 100, y: 110}
+        - {x: 88, y: 110}
+        - {x: 34, y: 48}
+        - {x: 32, y: 34}
+        - {x: 32, y: 14}
+        - {x: 86, y: 14}
+        - {x: 88, y: 19}
+        - {x: 115, y: 77}
+        - {x: 115, y: 81}
+    - name: grass_77
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: 84}
+        - {x: 95, y: 71}
+        - {x: 90, y: 63}
+        - {x: 94, y: 69}
+        - {x: 94, y: 70}
+        - {x: 96, y: 71}
+        - {x: 98, y: 75}
+        - {x: 108, y: 85}
+        - {x: 108, y: 98}
+        - {x: 98, y: 112}
+        - {x: 88, y: 112}
+        - {x: 71, y: 100}
+        - {x: 32, y: 52}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 113, y: 74}
+        - {x: 113, y: 81}
+        - {x: 111, y: 85}
+    - name: grass_78
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105, y: 85}
+        - {x: 100, y: 81}
+        - {x: 95, y: 74}
+        - {x: 92, y: 69}
+        - {x: 94, y: 71}
+        - {x: 95, y: 75}
+        - {x: 105, y: 86}
+        - {x: 107, y: 100}
+        - {x: 93, y: 114}
+        - {x: 74, y: 114}
+        - {x: 32, y: 52}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 111, y: 80}
+        - {x: 111, y: 83}
+        - {x: 108, y: 85}
+    - name: grass_79
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: 87}
+        - {x: 97, y: 81}
+        - {x: 94, y: 76}
+        - {x: 86, y: 59}
+        - {x: 84, y: 52}
+        - {x: 86, y: 58}
+        - {x: 87, y: 63}
+        - {x: 93, y: 73}
+        - {x: 101, y: 88}
+        - {x: 103, y: 92}
+        - {x: 102, y: 101}
+        - {x: 90, y: 115}
+        - {x: 80, y: 115}
+        - {x: 41, y: 83}
+        - {x: 32, y: 46}
+        - {x: 32, y: 14}
+        - {x: 90, y: 14}
+        - {x: 108, y: 79}
+        - {x: 108, y: 85}
+        - {x: 104, y: 87}
+    - name: grass_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 87}
+        - {x: 96, y: 84}
+        - {x: 88, y: 67}
+        - {x: 86, y: 62}
+        - {x: 86, y: 60}
+        - {x: 85, y: 59}
+        - {x: 85, y: 57}
+        - {x: 84, y: 56}
+        - {x: 85, y: 59}
+        - {x: 87, y: 67}
+        - {x: 89, y: 70}
+        - {x: 103, y: 97}
+        - {x: 88, y: 117}
+        - {x: 76, y: 117}
+        - {x: 32, y: 66}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 105, y: 77}
+        - {x: 105, y: 85}
+        - {x: 104, y: 88}
+    - name: grass_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 88}
+        - {x: 88, y: 71}
+        - {x: 85, y: 62}
+        - {x: 85, y: 60}
+        - {x: 84, y: 59}
+        - {x: 84, y: 57}
+        - {x: 82, y: 53}
+        - {x: 83, y: 55}
+        - {x: 83, y: 58}
+        - {x: 85, y: 62}
+        - {x: 85, y: 65}
+        - {x: 86, y: 66}
+        - {x: 90, y: 77}
+        - {x: 97, y: 91}
+        - {x: 99, y: 98}
+        - {x: 83, y: 118}
+        - {x: 67, y: 118}
+        - {x: 32, y: 46}
+        - {x: 32, y: 14}
+        - {x: 88, y: 14}
+        - {x: 103, y: 76}
+        - {x: 103, y: 85}
+        - {x: 101, y: 89}
+    - name: grass_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93, y: 87}
+        - {x: 90, y: 80}
+        - {x: 88, y: 75}
+        - {x: 85, y: 66}
+        - {x: 85, y: 63}
+        - {x: 83, y: 59}
+        - {x: 82, y: 52}
+        - {x: 83, y: 58}
+        - {x: 83, y: 61}
+        - {x: 84, y: 62}
+        - {x: 85, y: 69}
+        - {x: 86, y: 70}
+        - {x: 93, y: 90}
+        - {x: 93, y: 104}
+        - {x: 79, y: 119}
+        - {x: 65, y: 119}
+        - {x: 32, y: 46}
+        - {x: 32, y: 15}
+        - {x: 33, y: 14}
+        - {x: 87, y: 14}
+        - {x: 101, y: 86}
+        - {x: 98, y: 89}
+        - {x: 96, y: 89}
+    - name: grass_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: 88}
+        - {x: 86, y: 72}
+        - {x: 85, y: 68}
+        - {x: 83, y: 61}
+        - {x: 83, y: 58}
+        - {x: 82, y: 57}
+        - {x: 81, y: 48}
+        - {x: 82, y: 55}
+        - {x: 83, y: 64}
+        - {x: 84, y: 65}
+        - {x: 87, y: 76}
+        - {x: 90, y: 86}
+        - {x: 96, y: 99}
+        - {x: 83, y: 119}
+        - {x: 68, y: 119}
+        - {x: 35, y: 71}
+        - {x: 32, y: 52}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 99, y: 66}
+        - {x: 99, y: 89}
+        - {x: 98, y: 91}
+    - name: grass_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: 79}
+        - {x: 84, y: 66}
+        - {x: 84, y: 63}
+        - {x: 83, y: 62}
+        - {x: 83, y: 59}
+        - {x: 82, y: 58}
+        - {x: 82, y: 54}
+        - {x: 81, y: 53}
+        - {x: 82, y: 56}
+        - {x: 82, y: 60}
+        - {x: 83, y: 61}
+        - {x: 83, y: 65}
+        - {x: 84, y: 66}
+        - {x: 84, y: 69}
+        - {x: 85, y: 70}
+        - {x: 90, y: 87}
+        - {x: 91, y: 95}
+        - {x: 93, y: 107}
+        - {x: 76, y: 119}
+        - {x: 62, y: 119}
+        - {x: 34, y: 72}
+        - {x: 32, y: 54}
+        - {x: 32, y: 14}
+        - {x: 88, y: 14}
+        - {x: 99, y: 75}
+        - {x: 99, y: 89}
+        - {x: 92, y: 90}
+    - name: grass_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: 89}
+        - {x: 91, y: 87}
+        - {x: 89, y: 82}
+        - {x: 87, y: 76}
+        - {x: 83, y: 62}
+        - {x: 83, y: 58}
+        - {x: 82, y: 57}
+        - {x: 81, y: 49}
+        - {x: 82, y: 56}
+        - {x: 82, y: 60}
+        - {x: 83, y: 61}
+        - {x: 83, y: 65}
+        - {x: 84, y: 66}
+        - {x: 86, y: 74}
+        - {x: 91, y: 90}
+        - {x: 92, y: 106}
+        - {x: 85, y: 119}
+        - {x: 65, y: 119}
+        - {x: 41, y: 99}
+        - {x: 32, y: 55}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 99, y: 62}
+        - {x: 99, y: 89}
+        - {x: 98, y: 91}
+    - name: grass_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: 89}
+        - {x: 91, y: 86}
+        - {x: 88, y: 78}
+        - {x: 84, y: 65}
+        - {x: 84, y: 62}
+        - {x: 83, y: 61}
+        - {x: 83, y: 58}
+        - {x: 82, y: 57}
+        - {x: 81, y: 53}
+        - {x: 82, y: 55}
+        - {x: 83, y: 64}
+        - {x: 84, y: 65}
+        - {x: 84, y: 68}
+        - {x: 85, y: 69}
+        - {x: 89, y: 83}
+        - {x: 94, y: 94}
+        - {x: 89, y: 110}
+        - {x: 73, y: 119}
+        - {x: 67, y: 119}
+        - {x: 50, y: 93}
+        - {x: 32, y: 55}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 99, y: 70}
+        - {x: 99, y: 87}
+        - {x: 98, y: 91}
+    - name: grass_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93, y: 89}
+        - {x: 89, y: 80}
+        - {x: 86, y: 71}
+        - {x: 84, y: 64}
+        - {x: 84, y: 61}
+        - {x: 83, y: 60}
+        - {x: 83, y: 57}
+        - {x: 82, y: 56}
+        - {x: 81, y: 52}
+        - {x: 82, y: 54}
+        - {x: 83, y: 63}
+        - {x: 84, y: 64}
+        - {x: 85, y: 71}
+        - {x: 87, y: 75}
+        - {x: 88, y: 79}
+        - {x: 90, y: 84}
+        - {x: 92, y: 90}
+        - {x: 93, y: 106}
+        - {x: 76, y: 119}
+        - {x: 65, y: 119}
+        - {x: 34, y: 70}
+        - {x: 32, y: 52}
+        - {x: 32, y: 14}
+        - {x: 88, y: 14}
+        - {x: 100, y: 51}
+        - {x: 100, y: 96}
+    - name: grass_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: 89}
+        - {x: 90, y: 81}
+        - {x: 84, y: 63}
+        - {x: 84, y: 60}
+        - {x: 83, y: 59}
+        - {x: 83, y: 56}
+        - {x: 82, y: 55}
+        - {x: 81, y: 51}
+        - {x: 82, y: 53}
+        - {x: 83, y: 62}
+        - {x: 84, y: 63}
+        - {x: 84, y: 66}
+        - {x: 86, y: 70}
+        - {x: 89, y: 82}
+        - {x: 91, y: 85}
+        - {x: 97, y: 99}
+        - {x: 82, y: 119}
+        - {x: 70, y: 119}
+        - {x: 37, y: 65}
+        - {x: 32, y: 34}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 101, y: 82}
+        - {x: 101, y: 87}
+        - {x: 97, y: 89}
+    - name: grass_89
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: 89}
+        - {x: 88, y: 74}
+        - {x: 86, y: 68}
+        - {x: 86, y: 66}
+        - {x: 84, y: 62}
+        - {x: 84, y: 59}
+        - {x: 83, y: 58}
+        - {x: 83, y: 55}
+        - {x: 82, y: 54}
+        - {x: 81, y: 47}
+        - {x: 82, y: 52}
+        - {x: 82, y: 56}
+        - {x: 83, y: 57}
+        - {x: 83, y: 60}
+        - {x: 84, y: 61}
+        - {x: 85, y: 68}
+        - {x: 86, y: 69}
+        - {x: 89, y: 80}
+        - {x: 94, y: 87}
+        - {x: 95, y: 99}
+        - {x: 93, y: 109}
+        - {x: 78, y: 118}
+        - {x: 67, y: 118}
+        - {x: 35, y: 84}
+        - {x: 32, y: 62}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 101, y: 67}
+        - {x: 101, y: 88}
+        - {x: 99, y: 90}
+    - name: grass_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: 82}
+        - {x: 89, y: 75}
+        - {x: 85, y: 63}
+        - {x: 85, y: 61}
+        - {x: 83, y: 57}
+        - {x: 82, y: 50}
+        - {x: 83, y: 56}
+        - {x: 84, y: 63}
+        - {x: 85, y: 64}
+        - {x: 87, y: 70}
+        - {x: 91, y: 81}
+        - {x: 97, y: 90}
+        - {x: 97, y: 106}
+        - {x: 78, y: 118}
+        - {x: 70, y: 118}
+        - {x: 43, y: 69}
+        - {x: 36, y: 50}
+        - {x: 32, y: 28}
+        - {x: 32, y: 16}
+        - {x: 34, y: 14}
+        - {x: 87, y: 14}
+        - {x: 102, y: 84}
+        - {x: 102, y: 87}
+        - {x: 97, y: 89}
+    - name: grass_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 88}
+        - {x: 93, y: 82}
+        - {x: 89, y: 73}
+        - {x: 86, y: 65}
+        - {x: 85, y: 62}
+        - {x: 85, y: 60}
+        - {x: 83, y: 56}
+        - {x: 82, y: 49}
+        - {x: 84, y: 58}
+        - {x: 85, y: 65}
+        - {x: 86, y: 66}
+        - {x: 91, y: 79}
+        - {x: 96, y: 87}
+        - {x: 99, y: 98}
+        - {x: 88, y: 113}
+        - {x: 82, y: 118}
+        - {x: 71, y: 118}
+        - {x: 32, y: 52}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 103, y: 80}
+        - {x: 103, y: 86}
+        - {x: 100, y: 88}
+    - name: grass_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: 88}
+        - {x: 94, y: 83}
+        - {x: 90, y: 74}
+        - {x: 90, y: 72}
+        - {x: 86, y: 64}
+        - {x: 86, y: 62}
+        - {x: 85, y: 61}
+        - {x: 85, y: 59}
+        - {x: 83, y: 55}
+        - {x: 82, y: 49}
+        - {x: 83, y: 53}
+        - {x: 84, y: 60}
+        - {x: 85, y: 61}
+        - {x: 85, y: 63}
+        - {x: 86, y: 64}
+        - {x: 88, y: 72}
+        - {x: 90, y: 75}
+        - {x: 96, y: 88}
+        - {x: 97, y: 92}
+        - {x: 97, y: 103}
+        - {x: 81, y: 117}
+        - {x: 71, y: 117}
+        - {x: 32, y: 65}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 104, y: 77}
+        - {x: 104, y: 85}
+        - {x: 102, y: 89}
+    - name: grass_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: 83}
+        - {x: 89, y: 70}
+        - {x: 85, y: 60}
+        - {x: 85, y: 58}
+        - {x: 83, y: 54}
+        - {x: 83, y: 51}
+        - {x: 83, y: 55}
+        - {x: 85, y: 59}
+        - {x: 85, y: 62}
+        - {x: 88, y: 68}
+        - {x: 90, y: 73}
+        - {x: 99, y: 90}
+        - {x: 98, y: 103}
+        - {x: 84, y: 117}
+        - {x: 71, y: 117}
+        - {x: 32, y: 47}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 105, y: 82}
+        - {x: 105, y: 86}
+        - {x: 100, y: 88}
+    - name: grass_94
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 82}
+        - {x: 90, y: 71}
+        - {x: 90, y: 69}
+        - {x: 87, y: 64}
+        - {x: 87, y: 62}
+        - {x: 85, y: 59}
+        - {x: 85, y: 57}
+        - {x: 84, y: 56}
+        - {x: 84, y: 54}
+        - {x: 83, y: 54}
+        - {x: 85, y: 58}
+        - {x: 85, y: 61}
+        - {x: 87, y: 64}
+        - {x: 88, y: 69}
+        - {x: 100, y: 90}
+        - {x: 100, y: 97}
+        - {x: 98, y: 101}
+        - {x: 86, y: 114}
+        - {x: 84, y: 117}
+        - {x: 75, y: 117}
+        - {x: 33, y: 48}
+        - {x: 32, y: 42}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 106, y: 84}
+        - {x: 103, y: 87}
+        - {x: 100, y: 87}
+    - name: grass_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 82}
+        - {x: 91, y: 72}
+        - {x: 91, y: 70}
+        - {x: 86, y: 61}
+        - {x: 85, y: 58}
+        - {x: 85, y: 56}
+        - {x: 84, y: 55}
+        - {x: 84, y: 53}
+        - {x: 84, y: 56}
+        - {x: 85, y: 57}
+        - {x: 87, y: 65}
+        - {x: 101, y: 91}
+        - {x: 99, y: 104}
+        - {x: 87, y: 115}
+        - {x: 83, y: 116}
+        - {x: 78, y: 116}
+        - {x: 61, y: 90}
+        - {x: 54, y: 80}
+        - {x: 37, y: 49}
+        - {x: 34, y: 39}
+        - {x: 32, y: 29}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 107, y: 84}
+        - {x: 103, y: 87}
+        - {x: 100, y: 87}
+    - name: grass_96
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: 87}
+        - {x: 96, y: 81}
+        - {x: 92, y: 74}
+        - {x: 89, y: 67}
+        - {x: 89, y: 65}
+        - {x: 86, y: 60}
+        - {x: 86, y: 58}
+        - {x: 84, y: 55}
+        - {x: 85, y: 57}
+        - {x: 86, y: 62}
+        - {x: 89, y: 67}
+        - {x: 89, y: 69}
+        - {x: 96, y: 80}
+        - {x: 100, y: 88}
+        - {x: 104, y: 104}
+        - {x: 87, y: 116}
+        - {x: 76, y: 116}
+        - {x: 32, y: 49}
+        - {x: 32, y: 14}
+        - {x: 88, y: 14}
+        - {x: 107, y: 77}
+        - {x: 107, y: 86}
+        - {x: 104, y: 87}
+    - name: grass_97
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104, y: 87}
+        - {x: 103, y: 87}
+        - {x: 98, y: 83}
+        - {x: 93, y: 75}
+        - {x: 87, y: 62}
+        - {x: 87, y: 60}
+        - {x: 85, y: 57}
+        - {x: 84, y: 54}
+        - {x: 83, y: 49}
+        - {x: 86, y: 61}
+        - {x: 88, y: 64}
+        - {x: 88, y: 66}
+        - {x: 95, y: 79}
+        - {x: 101, y: 86}
+        - {x: 102, y: 102}
+        - {x: 91, y: 115}
+        - {x: 79, y: 115}
+        - {x: 40, y: 65}
+        - {x: 32, y: 34}
+        - {x: 32, y: 14}
+        - {x: 87, y: 14}
+        - {x: 108, y: 80}
+        - {x: 108, y: 84}
+    - name: grass_98
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103, y: 87}
+        - {x: 97, y: 81}
+        - {x: 90, y: 68}
+        - {x: 89, y: 64}
+        - {x: 86, y: 59}
+        - {x: 87, y: 61}
+        - {x: 87, y: 63}
+        - {x: 89, y: 66}
+        - {x: 89, y: 68}
+        - {x: 95, y: 77}
+        - {x: 102, y: 87}
+        - {x: 102, y: 101}
+        - {x: 89, y: 114}
+        - {x: 86, y: 115}
+        - {x: 79, y: 115}
+        - {x: 60, y: 91}
+        - {x: 32, y: 40}
+        - {x: 32, y: 14}
+        - {x: 89, y: 14}
+        - {x: 108, y: 81}
+        - {x: 108, y: 84}
+        - {x: 104, y: 87}
+    - name: grass_99
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: 87}
+        - {x: 97, y: 81}
+        - {x: 94, y: 76}
+        - {x: 86, y: 59}
+        - {x: 84, y: 52}
+        - {x: 86, y: 58}
+        - {x: 87, y: 63}
+        - {x: 93, y: 73}
+        - {x: 101, y: 88}
+        - {x: 103, y: 92}
+        - {x: 102, y: 101}
+        - {x: 90, y: 115}
+        - {x: 80, y: 115}
+        - {x: 41, y: 83}
+        - {x: 32, y: 46}
+        - {x: 32, y: 14}
+        - {x: 90, y: 14}
+        - {x: 108, y: 79}
+        - {x: 108, y: 85}
+        - {x: 104, y: 87}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,885 @@
+fileFormatVersion: 2
+guid: 44d9aca15dd3a4e43b919882387e982d
+timeCreated: 1470184082
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pulsar_0
+    21300002: pulsar_1
+    21300004: pulsar_2
+    21300006: pulsar_3
+    21300008: pulsar_4
+    21300010: pulsar_5
+    21300012: pulsar_6
+    21300014: pulsar_7
+    21300016: pulsar_8
+    21300018: pulsar_9
+    21300020: pulsar_10
+    21300022: pulsar_11
+    21300024: pulsar_12
+    21300026: pulsar_13
+    21300028: pulsar_14
+    21300030: pulsar_15
+    21300032: pulsar_16
+    21300034: pulsar_17
+    21300036: pulsar_18
+    21300038: pulsar_19
+    21300040: pulsar_20
+    21300042: pulsar_21
+    21300044: pulsar_22
+    21300046: pulsar_23
+    21300048: pulsar_24
+    21300050: pulsar_25
+    21300052: pulsar_26
+    21300054: pulsar_27
+    21300056: pulsar_28
+    21300058: pulsar_29
+    21300060: pulsar_30
+    21300062: pulsar_31
+    21300064: pulsar_32
+    21300066: pulsar_33
+    21300068: pulsar_34
+    21300070: pulsar_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pulsar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 641
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 641
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 641
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 641
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 641
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_5
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 641
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 64}
+        - {x: -68, y: 64}
+        - {x: -119, y: 50}
+        - {x: -144, y: 21}
+        - {x: -144, y: -19}
+        - {x: -127, y: -42}
+        - {x: -67, y: -64}
+        - {x: 66, y: -64}
+        - {x: 104, y: -53}
+        - {x: 144, y: -31}
+        - {x: 144, y: 34}
+    - name: pulsar_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 513
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 64}
+        - {x: -68, y: 64}
+        - {x: -119, y: 50}
+        - {x: -144, y: 21}
+        - {x: -144, y: -19}
+        - {x: -127, y: -42}
+        - {x: -67, y: -64}
+        - {x: 66, y: -64}
+        - {x: 104, y: -53}
+        - {x: 144, y: -31}
+        - {x: 144, y: 34}
+    - name: pulsar_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 513
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 64}
+        - {x: -68, y: 64}
+        - {x: -119, y: 50}
+        - {x: -144, y: 21}
+        - {x: -144, y: -19}
+        - {x: -127, y: -42}
+        - {x: -67, y: -64}
+        - {x: 66, y: -64}
+        - {x: 104, y: -53}
+        - {x: 144, y: -31}
+        - {x: 144, y: 34}
+    - name: pulsar_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 513
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 64}
+        - {x: -68, y: 64}
+        - {x: -119, y: 50}
+        - {x: -144, y: 21}
+        - {x: -144, y: -19}
+        - {x: -127, y: -42}
+        - {x: -67, y: -64}
+        - {x: 66, y: -64}
+        - {x: 104, y: -53}
+        - {x: 144, y: -31}
+        - {x: 144, y: 34}
+    - name: pulsar_10
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 513
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 64}
+        - {x: -68, y: 64}
+        - {x: -119, y: 50}
+        - {x: -144, y: 21}
+        - {x: -144, y: -19}
+        - {x: -127, y: -42}
+        - {x: -67, y: -64}
+        - {x: 66, y: -64}
+        - {x: 104, y: -53}
+        - {x: 144, y: -31}
+        - {x: 144, y: 34}
+    - name: pulsar_11
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 513
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 64}
+        - {x: -68, y: 64}
+        - {x: -119, y: 50}
+        - {x: -144, y: 21}
+        - {x: -144, y: -19}
+        - {x: -127, y: -42}
+        - {x: -67, y: -64}
+        - {x: 66, y: -64}
+        - {x: 104, y: -53}
+        - {x: 144, y: -31}
+        - {x: 144, y: 34}
+    - name: pulsar_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 385
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 385
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_15
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 385
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_16
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 385
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_17
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 385
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 257
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 257
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_21
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 257
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_22
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 257
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_23
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 257
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 64}
+        - {x: -68, y: 64}
+        - {x: -119, y: 50}
+        - {x: -144, y: 21}
+        - {x: -144, y: -19}
+        - {x: -127, y: -42}
+        - {x: -67, y: -64}
+        - {x: 66, y: -64}
+        - {x: 104, y: -53}
+        - {x: 144, y: -31}
+        - {x: 144, y: 34}
+    - name: pulsar_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 129
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 129
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_27
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 129
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_28
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 129
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_29
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 129
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_32
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_33
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_34
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    - name: pulsar_35
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1
+        width: 288
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -74, y: 64}
+        - {x: -132, y: 39}
+        - {x: -144, y: 20}
+        - {x: -144, y: -26}
+        - {x: -102, y: -51}
+        - {x: -62, y: -64}
+        - {x: 85, y: -64}
+        - {x: 144, y: -29}
+        - {x: 144, y: 30}
+        - {x: 79, y: 61}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
